@@ -9,7 +9,7 @@ import simulations.myframework.wb.modules._
  * This Scenario class used to run the view organization flows.
  */
 object SC01_Login_Only {
-  //TODO Login Jpetstore application
+  
   /**
    * The function execute the view organization flows
    * <BR>

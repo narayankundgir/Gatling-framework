@@ -10,7 +10,7 @@ import simulations.myframework.loadscenariosettings.globalsets._
  * This Scenario class used to run the view organization flows.
  */
 object SC01_Login_Only_Loop {
-  //TODO Login Jpetstore application
+  
   /**
    * The function execute the view organization flows
    * <BR>
